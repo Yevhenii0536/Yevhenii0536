@@ -27,14 +27,14 @@ Key Features
 
 💳 Payment Integration: The website seamlessly integrates with popular payment gateways, providing a smooth and secure payment process.
 
-Showcase of Other Projects
+Showcase of Other Projects:
 
-Todo App: This project demonstrates my skills in SCSS, HTML, React, and TypeScript. It's a simple and efficient task management application.
+- Todo App: This project demonstrates my skills in SCSS, HTML, React, and TypeScript. It's a simple and efficient task management application.
 
 🚀 Demo: [Todo App Demo](https://yevhenii0536.github.io/todo-app/)
 📂 GitHub Repository: [Todo App Code](https://github.com/Yevhenii0536/todo-app)
 
-Landing: A landing page project showcasing my expertise in CSS, HTML, BEM, and JS. It presents a visually stunning and responsive landing page.
+- Landing: A landing page project showcasing my expertise in CSS, HTML, BEM, and JS. It presents a visually stunning and responsive landing page.
 
 🚀 Demo: [Landing Demo](https://yevhenii0536.github.io/bose-landing/)
 📂 GitHub Repository: [Landing Code](https://github.com/Yevhenii0536/bose-landing)
