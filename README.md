@@ -1,10 +1,10 @@
 👋 Hello!
 
-I'm excited to introduce myself as a web developer with expertise in a wide range of technologies. I have over a year of experience working with JavaScript (JS), TypeScript (TS), HTML, CSS, React, Node, SQL, Redux, and React Native. I'm constantly expanding my skillset and currently exploring Vue and Angular.
+I'm excited to introduce myself as a web developer with expertise in a wide range of technologies. I have experience working with JavaScript (JS), TypeScript (TS), HTML, CSS, React, Node, Redux, and Vue.js. I'm constantly expanding my skillset and currently exploring Vue and Angular.
 
 Examples of my work:
 
-[Directly](https://directly.ae) - E-commerce Website
+[Directly](https://directly.ae) - E-commerce Website or [Directly](https://directly.xyz)
 Overview
 🛍️ The website is a platform designed for property developers based in Dubai to showcase real estate properties for sale. It features a wide range of properties, including apartments, entire floors in buildings, villas, and townhouses.
 
