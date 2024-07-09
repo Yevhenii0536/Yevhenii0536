@@ -1,6 +1,6 @@
 👋 Hello!
 
-I'm excited to introduce myself as a web developer with expertise in a wide range of technologies. I have experience working with JavaScript (JS), TypeScript (TS), HTML, CSS, React, Node, Redux, and Vue.js. I'm constantly expanding my skillset and currently exploring Vue and Angular.
+I'm excited to introduce myself as a web developer with expertise in a wide range of technologies. I have experience working with JavaScript (JS), TypeScript (TS), HTML, CSS, React, Node, Redux, and Vue.js. I'm constantly expanding my skillset and currently exploring Phyton.
 
 Examples of my work:
 
