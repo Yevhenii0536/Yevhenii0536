@@ -31,6 +31,9 @@
 - 💌 Feel free to reach out for collaboration, freelance projects, or just a chat!
 - 📍 Based in Europe · Available for remote work
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhenii0536&theme=dark&hide_border=true&card_height=200&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yevhenii0536&theme=dark&hide_border=true&border_radius=4&short_numbers=true&exclude_days=Sun%2CSat&card_width=600&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
+
 ---
 
 <p align="center">
